@@ -56,7 +56,7 @@ Once again, my second model followed the same principles but was structured diff
 
 The *Double MNIST* project was much harder as it had a higher number of possible classes and data that was tagged the same way but did not look the same :
 ` 1 + 1 = 2 but also 0 + 2 = 2 ` 
-Nevertheless, we still built a *Classical Neural Network* and a *Convolutional Neural Network*. For this project, the number of hidden layers was far greater in each model compared to *Simple MNIST*. This project was created on Kaggle by our *ML* professor. As datasets, we were given a *Training* dataset containing 50 000 examples to train our model on and a *Testing* dataset to predict their classes. 
+Nevertheless, we still built a *Classical Neural Network* and a *Convolutional Neural Network*. For this project, the number of hidden layers was far greater in each model compared to *Simple MNIST*. This project was created on Kaggle by our *ML* professor. As datasets, we were given a *Training* dataset containing 50 000 tagged examples to train our model on and a *Testing* dataset containing 10 000 untagged examples to predict their classes. 
 
 We had to submit our predictions on kaggle to receive a score for the accuracy of our model. However, we had a limited number of submissions possible. To increase our chances, we separated our training dataset in two : 80% of the points will be used to train our model and 20% of the points will be used to validate the model and get an approximation of the accuracy of said model. 
 
