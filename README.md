@@ -17,7 +17,7 @@ The data of this project contains 70 000 exemples of 28x28 pixels images represe
 </p>
 
 <sub> 
-N.B. : *Double MNIST* was done by me and a collegue. However, I did not post my collegue's work as to not claim credit for it. All code in this repository is mine. As instructed by our professor, we had to build 2 types of models and compare their accuracy. My collegue built the first model using *Logistic Regression* and I built the second model using *Neural Networks*. 
+N.B. : *Double MNIST* was done by me and a collegue. However, I did not post my collegue's work as to not claim credit for it. All code in this repository is mine. As instructed by our professor, we had to build 2 types of models and compare their accuracy. My collegue built the first type of model using *Logistic Regression* and I built the second type of model using *Neural Networks*. 
 </sub>
 
 ---
